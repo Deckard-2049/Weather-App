@@ -1,3 +1,2 @@
 # Weather-App
-##Real-time weather app using HTML, Bootstrap and Javascript.
-##RapidAPI used for fetching the meteorological data
+Real-time weather app using HTML, Bootstrap and Javascript. The meteorological data for website is fetched by using RapidAPI.
